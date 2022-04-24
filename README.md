@@ -1,8 +1,8 @@
 # SC1015_Project_Data_science
 
 ## About 
-
-# Data Preparation
+**
+Data Preparation**
 The first step in our journey for an answer involved cleaning and preparing the data.
 From the core Happiness Report dataset, we focused on significant variables that appeared in each year’s datasets. These include Happiness Score, Gross Domestic Product, and the factors of Healthy Life expectancy, Social support, freedom to make life choices, etc.
 The happiness score is based on answers to life evaluation questions inquired within the Gallup World Survey. It is the sum of all factors plus the residual sum, and serves as a broad comparative indicator for happiness levels in a country.
