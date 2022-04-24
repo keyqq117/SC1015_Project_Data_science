@@ -5,9 +5,9 @@
 This is the code for the Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence). We based our project on the dataset [World Happiness Report up to 2022](https://www.kaggle.com/datasets/mathurinache/world-happiness-report), from Kaggle.
 
 Our source codes:
-1. [Data Preparation]()
-2. [Data Visualization]()
-3. [Machine learning model(SVR)]()
+1. [Data Preparation](https://github.com/keyqq117/SC1015_Project_Data_science/blob/94801ee6dcf1834fee36a20c5fe47c0bdf2cf686/SC1015%20project%20data%20preparation.ipynb)
+2. [Data Visualization](https://github.com/keyqq117/SC1015_Project_Data_science/blob/94801ee6dcf1834fee36a20c5fe47c0bdf2cf686/SC1015%20project%20data%20visualisation%20(5).ipynb)
+3. [Machine learning model(SVR)](https://github.com/keyqq117/SC1015_Project_Data_science/blob/94801ee6dcf1834fee36a20c5fe47c0bdf2cf686/SC1015%20project%20machine%20learning.ipynb)
 
 ## Contributors
 - @PRATEEKA001 - Data collection & preparation
@@ -23,8 +23,10 @@ How can we determine the most important factors affecting a country’s Happines
 
 ## Conclusion
 
-## What did we learn from this project
 
+## What did we learn from this project
+- Support Vector Regression
+- Data cleaning with different headers
 
 ## References
 Kaggle - https://www.kaggle.com/datasets/mathurinache/world-happiness-report?resource=download&select=2022.csv
