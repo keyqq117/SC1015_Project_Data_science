@@ -26,7 +26,8 @@ How can we determine the most important factors affecting a country’s Happines
 
 ## What did we learn from this project
 - Support Vector Regression
-- Data cleaning with different headers
+- Concepts on kernels
+- Data cleaning with different headers/datasets of different sizes
 
 ## References
 #### Kaggle 
