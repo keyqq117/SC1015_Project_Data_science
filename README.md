@@ -13,6 +13,8 @@ Not all countries were represented in every year's survey, so we used 2015 as th
 Afterwards, it was important to change data type for the variables from object to float64, to allow for data analysis later on.
 We further had to merge some of the datasets to produce the regional indicator column, and for some of the years like the 2018 dataset, the residual had to be derived by subtracting the factors from the happiness score.
 
+#Exploratory Data Analysis
+
 
 ## Contributors
 - @PRATEEKA001 Data collection & preparation
