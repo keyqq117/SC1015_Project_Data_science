@@ -1,5 +1,5 @@
 # SC1015 mini Project on World Happiness Report
-![image](https://storage.googleapis.com/kaggle-datasets-images/569763/1033439/1ce64e5c026420074b8c4d17064c04e8/dataset-card.png?t=2020-03-25-03-01-03)
+
 
 ## About
 
@@ -23,7 +23,9 @@ How can we determine the most important factors affecting a country’s Happines
 2. Support Vector Regression
 
 ## Conclusion
-
+ - Numerical variables such as GDP per capita, social support and health life expectancy had the highest correlation with happiness score
+ - Region, despite being a categorical variable, when combined with other variable can offer a good predictor of happiness score
+ 
 
 ## What did we learn from this project
 - Support Vector Regression
