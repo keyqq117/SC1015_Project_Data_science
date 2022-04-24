@@ -1,5 +1,10 @@
 # SC1015_Project_Data_science
 
+## Contributors
+- @PRATEEKA001 - Data collection & preparation
+- @keyqq117 - Data analysis & visualization
+- @syed0059 - machine learning model(SVR) & insights
+
 ## About 
 
 ### Problem Definition
@@ -39,7 +44,7 @@ However, we noticed a lot of variation in the scores for every train-test split 
 
 After this, we achieved much more consistent results, as seen on the table. SVR still outperforms OLS across the board in the test sets, with the RBF version getting the highest R2 scores in both train and test sets.
 
-## Model Efficacy
+### Model Efficacy
 From the above results, we see that our accuracy is consistently relatively high. This shows that the region of a country is a relatively significant factor in the determination of a population’s happiness. This is possibly because the region a country belongs to is a broad indicator of many other factors that influence happiness, such as freedom as well as many other intangible factors that cannot be measured.
 Overall, our model shows a high degree of correlation between region, gdp, and happiness, however, our results are inherently limited as there are only so many countries in the world. All of our models had very similar accuracies to each other, but the highest of them was SVR with RBF kernel as it allowed for better separation of the points using the kernel to choose the best hyperplane. SVR provided more accurate results over simple OLS in most cases, combining it with K-folds made the results more consistent and reproducible while also improving the score in the test cases.
 
@@ -47,10 +52,7 @@ Overall, our model shows a high degree of correlation between region, gdp, and h
 ## Conclusion
 In conclusion, we have identified the variables that are most highly correlated with happiness which are gdp per capita, social support, and healthy life expectancy. We have also found that although region is not accounted for in happiness score, it is a relatively reliable indicator of happiness as well. This might explain the increase in worry and stress mentioned earlier, as many of the factors strongly associated with happiness have declined due to Covid. 
 
-## Contributors
-- @PRATEEKA001 - Data collection & preparation
-- @keyqq117 - Data analysis & visualization
-- @syed0059 - machine learning model(SVR) & insights
 
 
 ## References
+Kaggle - https://www.kaggle.com/datasets/mathurinache/world-happiness-report?resource=download&select=2022.csv
