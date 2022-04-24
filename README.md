@@ -35,6 +35,8 @@ How can we determine the most important factors affecting a country’s Happines
 ## References
 #### Kaggle 
 - https://www.kaggle.com/datasets/mathurinache/world-happiness-report?resource=download&select=2022.csv
+#### Research
+- https://worldhappiness.report/ed/2022/
 #### SVR 
 - https://towardsdatascience.com/an-introduction-to-support-vector-regression-svr-a3ebc1672c2
 - https://www.analyticssteps.com/blogs/what-support-vector-regression
