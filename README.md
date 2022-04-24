@@ -2,7 +2,10 @@
 
 ## About 
 
-## Problem Definition
+### Problem Definition
+People all over the world are experiencing great difficulties, especially due to Covid-19 pandemic that still claims lives and disrupts economies. The world happiness report indicates that worry and stress levels have risen by 4% since 2021. We found it interesting that the happiness report was so reflective of real-world events, and wanted to explore this report further.
+We wanted to find out what contributed to happiness. Why do some countries have a high happiness score year after year, while others remain at the bottom of the happiness ranking?
+This led to our problem statement: **How can we determine the most important factors affecting a country’s Happiness Score?**
 
 ### Data Preparation
 The first step in our journey for an answer involved cleaning and preparing the data.
