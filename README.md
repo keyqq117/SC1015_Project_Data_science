@@ -30,3 +30,9 @@ How can we determine the most important factors affecting a country’s Happines
 
 ## References
 Kaggle - https://www.kaggle.com/datasets/mathurinache/world-happiness-report?resource=download&select=2022.csv
+SVR - https://towardsdatascience.com/an-introduction-to-support-vector-regression-svr-a3ebc1672c2
+    - https://www.analyticssteps.com/blogs/what-support-vector-regression
+    - https://programmathically.com/what-is-a-kernel-in-machine-learning/
+    - https://www.geeksforgeeks.org/radial-basis-function-kernel-machine-learning/
+    - https://www.geeksforgeeks.org/major-kernel-functions-in-support-vector-machine-svm/
+    - https://medium.com/swlh/support-vector-regression-explained-for-beginners-2a8d14ba6e5d
