@@ -1,4 +1,4 @@
-# SC1015_Project_Data_science
+# SC1015 mini Project on Data Science
 
 ## About
 
