@@ -15,6 +15,8 @@ We further had to merge some of the datasets to produce the regional indicator c
 
 ### Exploratory Data Analysis
 
+### Machine Learning Model
+
 
 ## Contributors
 - @PRATEEKA001 - Data collection & preparation
