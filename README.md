@@ -1,5 +1,5 @@
 # SC1015 mini Project on World Happiness Report
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kaggle.com%2Flondeen%2Fworld-happiness-report-2020&psig=AOvVaw2OwurW3F0vwRjX-jfl2ovN&ust=1650893519542000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCICKseHnrPcCFQAAAAAdAAAAABAD)
+![image](https://storage.googleapis.com/kaggle-datasets-images/569763/1033439/1ce64e5c026420074b8c4d17064c04e8/dataset-card.png?t=2020-03-25-03-01-03)
 
 ## About
 
