@@ -2,6 +2,8 @@
 
 ## About
 
+This is the code for the Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence). We based our project on the dataset [World Happiness Report up to 2022](https://www.kaggle.com/datasets/mathurinache/world-happiness-report), from Kaggle.
+
 ## Contributors
 - @PRATEEKA001 - Data collection & preparation
 - @keyqq117 - Data analysis & visualization
