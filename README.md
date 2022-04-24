@@ -17,6 +17,14 @@ We further had to merge some of the datasets to produce the regional indicator c
 
 
 ## Contributors
-- @PRATEEKA001 Data collection & preparation
-- @keyqq117 Data analysis & visualization
-- @syed0059 machine learning model(SVR) & insights
+- @PRATEEKA001 - Data collection & preparation
+- @keyqq117 - Data analysis & visualization
+- @syed0059 - machine learning model(SVR) & insights
+
+## Problem Definition
+
+## Models Used
+
+## Conclusion
+
+## References
