@@ -24,7 +24,7 @@ How can we determine the most important factors affecting a country’s Happines
 
 ## Conclusion
  - Numerical variables such as GDP per capita, social support and health life expectancy had the highest correlation with happiness score
- - Region, despite being a categorical variable, when combined with other variable can offer a good predictor of happiness score
+ - Region, despite being a categorical variable, when combined with other variable can be a good predictor of happiness score
  
 
 ## What did we learn from this project
