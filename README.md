@@ -10,7 +10,7 @@ This is the code for the Mini-Project for SC1015 (Introduction to Data Science a
 - @syed0059 - machine learning model(SVR) & insights
 
 ## Problem Definition
-How can we determine the most important factors affecting a country’s Happiness Score?
+How can we determine the most important factors affecting a country’s Happiness?
 
 ## Models Used
 
